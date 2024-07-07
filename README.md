@@ -17,8 +17,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
