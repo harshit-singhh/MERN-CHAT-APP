@@ -10,11 +10,8 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
+  
 
-
-# Live application link 
-
-https://connectify-n60v.onrender.com/
 
 
 # Features
@@ -22,9 +19,9 @@ https://connectify-n60v.onrender.com/
 ### Authenticaton
 
 ### Real Time Chatting with Typing indicators
-
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
-
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
 ### Search Users
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
 ### Create Group Chats
