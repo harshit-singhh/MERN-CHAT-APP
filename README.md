@@ -10,8 +10,11 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
-  
 
+
+# Live application link 
+
+https://connectify-n60v.onrender.com/
 
 
 # Features
