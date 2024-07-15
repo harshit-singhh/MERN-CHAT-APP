@@ -22,6 +22,9 @@ const accessChat = asyncHandler(async (req, res) => {
   })
     .populate("users", "-password")
     .populate("latestMessage");
+  
+  // ye upar wala and neeche wala, 2 methods me populate karne ke.. upar wala to straightforward he..
+  // neeche wale me, mujhe latestMessage ke andar jo sender he.. usko populate karna he.. and i know ki sender ki info will come from User (as sender's ref is user) there fore we did this
 
   isChat = await User.populate(isChat, {
     path: "latestMessage.sender",
